@@ -25,7 +25,7 @@ O projeto está organizado nas seguintes pastas:
 
 O modelo de dados relacional foi projetado para armazenar informações sobre clientes, funcionários, atendimentos e metas. A estrutura garante a integridade e a facilidade de consulta dos dados.
 
-![Modelo DER do Banco de Dados](BarberBI/Banco/modelo_der.png)
+![Modelo DER do Banco de Dados](Banco/modelo_der.png)
 
 ### ETL e Análise
 
