@@ -47,15 +47,19 @@ O dashboard interativo no Power BI oferece uma visão abrangente do desempenho d
 
 #### Visão Geral do Dashboard
 
-![Visão Geral do Dashboard](Dashboard/Captura de tela 2026-05-18 120223.png)
+![Visão Geral do Dashboard](Dashboard/Visão_Geral.png)
 
 #### Desempenho de Funcionários
 
-![Desempenho de Funcionários](Dashboard/Captura de tela 2026-05-18 120234.png)
+![Desempenho de Funcionários](Dashboard/Funcionários.png)
 
 #### Faturamento vs. Metas
 
-![Faturamento vs. Metas](Dashboard/Captura de tela 2026-05-18 122119.png)
+![Faturamento vs. Metas](Dashboard/Metas.png)
+
+#### Faturamento e Serviços
+
+![ Faturamento e Serviços](Dashboard/Faturamento.png)
 
 ## Tecnologias Utilizadas
 
